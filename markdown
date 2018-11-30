@@ -1,6 +1,6 @@
 #test
 
-```sas
+```python
 proc sql;
   create table new as
   select *
